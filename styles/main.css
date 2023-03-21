@@ -1,0 +1,16 @@
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+.container .shtangen {
+  margin-top: 200px;
+  width: 765px;
+}
+.container .shtangen .part {
+  width: 208px;
+  height: 226px;
+  position: absolute;
+  left: 275px;
+  top: 206px;
+  background-image: url("../images/part.png");
+}/*# sourceMappingURL=main.css.map */
